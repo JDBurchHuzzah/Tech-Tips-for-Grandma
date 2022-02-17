@@ -1,3 +1,4 @@
 # Home
 Quick catagory links:
-[Battery]
+[Battery](battery.md)
+
